@@ -38,8 +38,5 @@ The dashboard provides interactive insights across Amazon, Flipkart, Retail, and
 - Monthly Trend (Line Chart)  
 - Page-level and report-level filters
 
+📸 **Dashboard Preview:**
 <img width="1550" height="853" alt="image" src="https://github.com/user-attachments/assets/bd92592a-c360-43fe-90f3-6afc62e0f5f3" />
-
-
-📸 **Dashboard Preview:**  
-> *(Add your images below)*  
